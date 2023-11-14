@@ -23,7 +23,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
 
 ## Categories and Their Books
 
-### 1. Algorithms
+### 1. 🧮 Algorithms
 - **Description**: Books focusing on algorithms, including their design, analysis, and application.
 - **Total Size**: 475764 bytes
 - **Books**:
@@ -63,7 +63,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
   - "The.MIT.Press.Introduction.to.Algorithms.4th.edition"
   - "The Self-Taught Programmer: The Definitive Guide to Programming Professionally"
 
-### 2. Angular
+### 2. 🌐 Angular
 - **Description**: Comprehensive resources on Angular framework, covering various versions and aspects of Angular development.
 - **Total Size**: 61196 bytes
 - **Books**:
@@ -77,7 +77,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
   - "RxJS in Action" by Paul P. Daniels, Luis Atencio
   - "Testing Angular Applications: Covers Angular 2" by Jesse Palmer, Corinna Cohn, Mike Giambalvo, Craig Nishina
 
-### 3. Architecture
+### 3. 🏛 Architecture
 - **Description**: Books on software architecture, design patterns, and best practices in system design.
 - **Total Size**: 729608 bytes
 - **Books**:
@@ -101,7 +101,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
   - "The Microservices Handbook: An introduction to developing, deploying, and designing cloud-native applications using the microservices..." by Nayan Ruparelia
   - "The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise" by Gregor Hohpe
  
-### 4. Arduino
+### 4. 🤖 Arduino
 - **Description**: A selection of books dedicated to Arduino projects and programming.
 - **Total Size**: 134656 bytes
 - **Books**:
@@ -113,7 +113,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
   - "Make: Electronics: Learning Through Discovery" by Charles Platt
   - "Programming Arduino: Getting Started with Sketches, Second Edition" by Simon Monk
 
-### 5. CSS
+### 5. 🎨 CSS
 - **Description**: Resources focusing on CSS, including modern design techniques and best practices.
 - **Total Size**: 10460 bytes
 - **Books**:
@@ -124,7 +124,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
   - "Responsive Web Design with HTML5 and CSS" by Ben Frain
   - "Sass and Compass in Action" by Wynn Netherland, Nathan Weizenbaum, Chris Eppstein, Brandon Mathis
 
-### 6. Docker
+### 6. 🐳 Docker
 - **Description**: Comprehensive guides and cookbooks for mastering Docker and containerization.
 - **Total Size**: 60060 bytes
 - **Books**:
@@ -137,7 +137,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
   - "Mastering Docker: Unlock new opportunities using Docker's most advanced features" by Russ McKendrick, Scott Gallagher
   - "The Docker Book: Containerization is the new virtualization" by James Turnbull
 
-### 7. Flutter
+### 7. 🦋 Flutter
 - **Description**: Flutter development resources, from beginner guides to more advanced topics.
 - **Total Size**: 49444 bytes
 - **Books**:
@@ -147,7 +147,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
   - "Flutter Projects: A practical, project-based guide to building real-world cross-platform mobile applications and games" by Simone Alessandria
   - "Practical Flutter: Improve your Mobile Development with Google’s Latest Open-Source SDK" by Frank Zammetti
 
-### 8. Games
+### 8. 🎮 Games
 - **Description**: Books covering game development fundamentals, programming, and graphics.
 - **Total Size**: 78928 bytes
 - **Books**:
@@ -158,7 +158,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
   - "Unity Multiplayer Games" by Alan R. Stagner
   - "Video Game Storytelling: What Every Developer Needs to Know about Narrative Techniques" by Evan Skolnick
     
-### 9. Git
+### 9. 🌐 Git
 - **Description**: Resources focusing on Git, its usage, and best practices.
 - **Total Size**: 9488 bytes
 - **Books**:
@@ -167,7 +167,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
   - "Pro Git" by Scott Chacon and Ben Straub
   - "Version Control with Git: Powerful tools and techniques for collaborative software development" by Jon Loeliger and Matthew McCullough
 
-### 10. Go
+### 10. 🐹 Go
 - **Description**: Books on Go programming language, covering various aspects from basics to advanced topics.
 - **Total Size**: 336048 bytes
 - **Books**:
@@ -179,7 +179,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
   - "Learning Go: An Idiomatic Approach to Real-World Go Programming" by Jon Bodner
   - "The Go Programming Language" by Alan Donovan and Brian Kernighan
 
-### 11. Hibernate
+### 11. 🌿 Hibernate
 - **Description**: Comprehensive guides on Hibernate framework for Java.
 - **Total Size**: 63388 bytes
 - **Books**:
@@ -189,7 +189,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
   - "Just Hibernate: A Lightweight Introduction to the Hibernate Framework" by Madhusudhan Konda
   - "Spring Persistence with Hibernate" by Paul Fisher, Brian D. Murphy
 
-### 12. Interviews
+### 12. 🎤 Interviews
 - **Description**: Books to prepare for coding interviews and technical assessments.
 - **Total Size**: 57648 bytes
 - **Books**:
@@ -198,7 +198,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
   - "Programming Interviews Exposed: Coding Your Way Through the Interview" by John Mongan, Noah Kindler, Eric Giguère
 
 
-### 13. Java
+### 13. ☕ Java
 - "Core Java Volume I - Fundamentals" by Cay S. Horstmann
 - "Effective Java" by Joshua Bloch
 - "Head First Java" by Kathy Sierra and Bert Bates
@@ -214,7 +214,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
 - "Learning Java" by Patrick Niemeyer, Daniel Leuck
 - "Modern Java in Action: Lambdas, Streams, Functional and Reactive Programming" by Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft
 
-### 14. JavaScript (JS)
+### 14. 📜 JavaScript (JS)
 - **Description**: Books dedicated to JavaScript programming, including frameworks and modern practices.
 - **Total Size**: 1251956 bytes
 - **Books**:
@@ -226,7 +226,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
   - "JavaScript: The Definitive Guide" by David Flanagan
   - "React: Up & Running: Building Web Applications" by Stoyan Stefanov
 
-### 15. Linux
+### 15. 🐧 Linux
 - **Description**: Guides and references for Linux operating system, covering various distributions and usage scenarios.
 - **Total Size**: 192452 bytes
 - **Books**:
@@ -237,7 +237,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
   - "Linux Administration: A Beginner’s Guide" by Wale Soyinka
   - "Unix and Linux System Administration Handbook" by Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley
 
-### 16. Mathematics
+### 16. 🧮 Mathematics
 - **Description**: Mathematics-related books, covering from basic algebra to advanced topics.
 - **Total Size**: 2209728 bytes
 - **Books**:
@@ -249,20 +249,20 @@ By accessing and using this repository, you acknowledge and agree to these terms
   - "Principles of Mathematical Analysis" by Walter Rudin
   - "A First Course in Probability" by Sheldon Ross
  
-### 17. Other Programming Books
+### 17. 📚 Other Programming Books
 - **Description**: A diverse collection of programming and technology-related books.
 - **Total Size**: 633584 bytes
 - **Books**:
   - Various technology and programming guides, best practices, and tutorials.
 
-### 18. Raspberry Pi
+### 18.  🥧 Raspberry Pi
 - **Description**: Books focused on Raspberry Pi projects and programming.
 - **Total Size**: 56632 bytes
 - **Books**:
   - "Raspberry Pi Cookbook: Software and Hardware Problems and Solutions" by Simon Monk
   - "The Official Raspberry Pi Projects Book" by The MagPi
 
-### 19. REST and Web Services
+### 19. 🌐 REST and Web Services
 - **Description**: Books covering RESTful APIs, web services design, and implementation.
 - **Total Size**: 196064 bytes
 - **Books**:
@@ -271,7 +271,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
   - "REST API Design Rulebook" by Mark Masse
   - "Building Microservices: Designing Fine-Grained Systems" by Sam Newman
 
-### 20. Rust
+### 20. 🦀 Rust
 - **Description**: Books on the Rust programming language, covering basics and advanced topics.
 - **Total Size**: 40376 bytes
 - **Books**:
@@ -280,7 +280,7 @@ By accessing and using this repository, you acknowledge and agree to these terms
   - "Programming Rust: Fast, Safe Systems Development" by Jim Blandy and Jason Orendorff
   - "Rust Cookbook: Understand the core concepts of rust such as, memory management, concurrency, packaging, and many more" by Vigneshwer Dhinakaran
 
-### 21. Vim
+### 21. 🖊 Vim
 - **Description**: Books dedicated to Vim editor, its usage, shortcuts, and customization.
 - **Total Size**: 19240 bytes
 - **Books**:
